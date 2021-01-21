@@ -1,1 +1,1 @@
-Calculator Using Windows Forms And C#
+Create calculator using Windows Forms and C#
